@@ -24,4 +24,4 @@ Individuals signal aspects of their identity and beliefs through linguistic choi
 ```
 
 ## Repository Structure
-Code for generating all plots displayed in the paper are in the 'Final Plots.ipynb' Jupyter notebook. Following Twitter guidelines for academic data releases, we release the set of Tweet IDs of the tweets in our dataset. This file is a tad bit large - we're still wrangling on how to upload this to Github, so you'll hopefully see any updates we have on that here soon!
+Code for generating all plots displayed in the paper are in the 'Final Plots.ipynb' Jupyter notebook. Following Twitter guidelines for academic data releases, we release the set of Tweet IDs of the tweets in our dataset, alongside the Reddit comments in our analysis. This file is a tad bit large - we're still wrangling on how to upload this to Github, so you'll hopefully see any updates we have on that here soon!
